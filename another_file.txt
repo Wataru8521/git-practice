@@ -1,2 +1,2 @@
-mainブランチで修正。rebase
+mainブランチで修正。rebase 2nd.
 git hub上でupdate.
