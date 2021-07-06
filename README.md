@@ -3,3 +3,7 @@
 update readme.md
 rebase-practice udpate(rebase conflict) 
 stashファイル確認用に一行追加。コンフリクト発生用これは通常用。
+
+
+
+git stash 2nd
