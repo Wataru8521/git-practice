@@ -2,3 +2,4 @@
 このリポジトリはGit動画講座用です．
 update readme.md
 rebase-practice udpate(rebase conflict) 
+stashファイル確認用に一行追加。
