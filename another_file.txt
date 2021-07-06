@@ -1,1 +1,2 @@
 mainブランチで修正。rebase
+git hub上でupdate.
